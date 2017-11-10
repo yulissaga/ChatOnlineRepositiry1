@@ -31,7 +31,7 @@
 <body>
    <div id= "wrapper">
      <div id="header">
-	 Bienvenido <span id="userName" style="color:#C71585;"></span> a Uap-Chat TIC </div>
+	 Bienvenido <span id="userName" style="color:#C71585;"></span> a UapChat TIC </div>
 	 
 	 <div id="content">
 	    <ul id="containerMessages"></ul>
